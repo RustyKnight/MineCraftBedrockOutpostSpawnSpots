@@ -16,11 +16,10 @@ This strips out the crop water feature into a standalone addon and updates it to
 
 ## How To Use
 
-To use this feature, place an armor stand on the first level (ground floor, bottom floor), ensuring the armor stand is facing the door of the outpost. Equip the armor stand with a banner. The armor stand will highlight the hard coded spawn spots for that outpost on the top first level and top level.
+To use this feature, place an armor stand on the first level (ground floor, bottom floor), ensuring the armor stand is facing the door of the outpost. Equip the armor stand with a **banner**. The armor stand will highlight the hard coded spawn spots for that outpost on the top first level and top level.
 
 * Without proper direction of the armor stand toward outpost door, this feature will not display correct spawn spots.
-
-** Depending on terrain surrounding the outpost, it may be difficult to see the lower highlighted spawn spots. In this case, look at the spawn spots from the top level of the outpost to guide you.
+* Depending on terrain surrounding the outpost, it may be difficult to see the lower highlighted spawn spots. In this case, look at the spawn spots from the top level of the outpost to guide you.
 
 
 <img src="support/outpost_spots_diagram.png">
