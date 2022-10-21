@@ -12,7 +12,7 @@ The game is meant to create a hard coded spawn spot at block position x8,z8 with
 
 [Bedrock Technical Resource Pack](https://github.com/RavinMaddHatter/Bedrock-Technical-Resource-Pack)
 
-This strips out the crop water feature into a standalone addon and updates it to support 1.19.30
+This strips out the feature into a standalone addon and updates it to support 1.19.30
 
 ## How To Use
 
