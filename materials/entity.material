@@ -1,0 +1,24 @@
+{
+    "materials":
+    {
+        "version": "1.0.0",
+        "kz_alpha_end:entity_alphablend":
+        {
+            "+defines":
+            [
+                "COLOR_BASED"
+            ],
+            "-defines":
+            [
+                "USE_OVERLAY"
+            ],
+            "+states":
+            [
+                "Blending",
+                "DisableDepthWrite"
+            ],
+            "blendSrc": "SourceAlpha",
+            "blendDst": "One"
+        }
+    }
+}
